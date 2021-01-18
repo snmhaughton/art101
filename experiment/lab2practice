@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello World</title>
+	<link rel="stylesheet" type="text/css" href="../css/site.css">
+	<link rel="stylesheet" type="text/css" href="css/lab.css">
+	</head>
+	<body>
+
+	</body>
+</html>
+
+CSS
+
+<style>
+h1 {
+  color: red;
+  font-size: 200%;
+}
+
+.callout {
+  color: orange;
+  font-family:"comic sans";
+  text-indent: 350px;
+}
+
+#content {
+    border: solid 1px;
+}
+
+
+
+
+
+
+
+</style>
+
+<style>
+h1 {
+  color: red;
+  font-size: 200%;
+}
