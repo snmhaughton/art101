@@ -1,11 +1,6 @@
-p.callout{
-  color: #E34440;
-  text-indent:120px;
-  border: dotted pink 1px;
+.callout{
+  color:black;
 }
-
-
-
 
 nav,a{
   color:pink;
