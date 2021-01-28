@@ -1,0 +1,30 @@
+img{
+    width: 20%;
+    border-style:solid;
+    rotate: 90;
+  }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  letter-spacing: 10px;
+  }
+
+
+body {
+  background-color: pink;
+  }
+
+h3 {
+      text-align:center;
+  }
+
+h2 {
+    text-decoration: underline;
+  }
