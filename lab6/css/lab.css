@@ -1,0 +1,29 @@
+img{
+    width: 30%;
+    border-style:dashed;
+
+  }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: dotted underline;
+  letter-spacing: 15px;
+  }
+
+body {
+  background-color: #EFFFDD;
+  }
+
+h3 {
+      text-align:left;
+  }
+
+h2 {
+    text-decoration: underline;
+  }
