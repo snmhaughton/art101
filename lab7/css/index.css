@@ -1,0 +1,19 @@
+img{
+    width: 25%;
+
+  }
+
+h1 {
+  text-align:center;
+  border-style:solid;
+  text-decoration: underline;
+  letter-spacing: 10px;
+  }
+
+h2 {
+  text-decoration:underline;
+}
+
+body {
+  background-color: #F4FFFF;
+  }
