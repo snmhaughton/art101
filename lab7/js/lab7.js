@@ -23,4 +23,4 @@ function nameSorter() {
 
 //output
 document.writeln("Here's your new name!",
-  sortUserName(), "</br>");
+  nameSorter(), "</br>");
