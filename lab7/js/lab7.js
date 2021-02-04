@@ -22,5 +22,5 @@ function nameSorter() {
 }
 
 //output
-document.writeln("Here's your new name!",
+document.writeln("Here's your new name: ",
   nameSorter(), "</br>");
