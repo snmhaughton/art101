@@ -1,0 +1,20 @@
+
+h1 {
+  text-align:center;
+  border-style:dotted;
+  text-decoration: underline;
+  letter-spacing: 15px;
+  }
+
+h2 {
+  text-decoration:underline dotted;
+  text-align:center;
+}
+
+p {
+  text-align:center;
+  
+}
+body {
+  background-color: #926585;
+  }
