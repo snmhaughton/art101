@@ -11,5 +11,9 @@ var divEl = document.getElementById("div_1");
 divEl.innerHTML="This is annoying";
 console.log(divEl.innerHTML);
 var buttonEl = document.createElement("button")
-divEl.appendChild(buttonEl);
+document.body.appendChild(buttonEl);
 buttonEl.innerHTML= "press me";
+
+buttonEl.onclick= function(){
+  divEl.innerHTML="This is more annoying than I thought";
+}
