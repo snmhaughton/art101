@@ -17,4 +17,7 @@ body {
   background-color: #E0ECFA;
   }
 
-  
+document.getElementById("p2") {
+  style.color = "blue";
+
+}
