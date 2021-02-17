@@ -20,3 +20,9 @@ p {
 body {
   background-color: #BAD1BB;
   }
+
+.name span {
+  background-color: pink;
+  text-color:black;
+
+}
