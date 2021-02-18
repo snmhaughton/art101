@@ -1,0 +1,29 @@
+h1 {
+  text-align:center;
+  text-decoration: underline;
+  letter-spacing: 8px;
+  border-color: blue;
+  }
+
+h2 {
+  text-decoration:underline ;
+  text-align:center;
+}
+
+p {
+  text-align:center;
+}
+
+body {
+  background-color: pink;
+  }
+
+div#output{
+  border-style:dashed;
+  background-color:red;
+  border-color:blue
+}
+
+.special{
+  background-color: red;
+}
