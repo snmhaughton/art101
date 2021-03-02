@@ -6,3 +6,13 @@ scrolly.class{
   border:solid;
   color:yellow;
 }
+
+.info{
+  font-size: 2em;
+}
+
+.color_me{
+  color:green;
+  background-color:yellow;
+  font-size: 2em
+}

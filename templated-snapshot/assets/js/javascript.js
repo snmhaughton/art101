@@ -14,7 +14,14 @@ document.getElementById('bio_id').innerHTML = messageVar;
 
 document.getElementById("submit_bio_id").addEventListener('click', submitBio);
 
-function colorMe(){
-  document.getElementById('name_email_id').style.color = "red";
-}
-document.getElementById("color_me_id").addEventListener('click', colorMe);
+// function colorMe(){
+//   //document.getElementById('name_email_id').style.color = "red";
+//   //document.getElementById('name_email_id').classList.add('color_me');
+//   //another way to do class
+//   document.getElementById('name_email_id').className += 'color_me';
+//
+// }
+// document.getElementById("color_me_id").addEventListener('click', colorMe);
+$('#color_me_id').click(function()){
+  $('#name_email_id').toggleClass("color_me");
+})
