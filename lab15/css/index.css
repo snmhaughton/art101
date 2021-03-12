@@ -1,0 +1,25 @@
+#content{
+  border: 5px;
+  border-color: black;
+}
+
+
+h1 {
+  text-align:middle;
+  text-decoration: underline;
+  letter-spacing: 6px;
+  }
+
+h2 {
+  text-decoration:underline ;
+  text-align:middle;
+}
+
+
+p {
+  text-align:middle;
+}
+
+body {
+  background-color: #F0F9EC;
+  }

@@ -1,0 +1,37 @@
+$( document ).ready(function() {
+    $('#Q1').toggleClass('hidden');
+});
+$('#button1').click(function(){
+  $('#p1').toggleClass('hidden');
+  $('#Q2').toggleClass('hidden');
+});
+$('#button2').click(function(){
+  $('#p2').toggleClass('hidden');
+});
+$('#button3').click(function(){
+  $('#p3').toggleClass('hidden');
+  $('#Q3').toggleClass('hidden');
+});
+$('#button4').click(function(){
+  $('#p4').toggleClass('hidden');
+});
+$('#button5').click(function(){
+  $('#p5').toggleClass('hidden');
+  $('#Q4').toggleClass('hidden');
+});
+$('#button6').click(function(){
+  $('#p6').toggleClass('hidden');
+});
+$('#button7').click(function(){
+  $('#p7').toggleClass('hidden');
+  $('#Q5').toggleClass('hidden');
+});
+$('#button8').click(function(){
+  $('#p8').toggleClass('hidden');
+});
+$('#button9').click(function(){
+  $('#p9').toggleClass('hidden');
+});
+$('#button10').click(function(){
+  $('#p10').toggleClass('hidden');
+});
